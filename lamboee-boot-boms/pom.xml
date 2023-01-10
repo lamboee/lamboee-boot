@@ -6,18 +6,16 @@
         <groupId>cn.lamboee</groupId>
         <artifactId>lamboee-boot</artifactId>
         <version>0.0.1-SNAPSHOT</version>
-        <relativePath>../pom.xml</relativePath>
     </parent>
 
     <artifactId>lamboee-boot-boms</artifactId>
-    <name>lamboee-boot-boms</name>
-    <description>lamboee-boot-boms</description>
 
     <packaging>pom</packaging>
 
     <modules>
         <module>lamboee-boot-bom-spring-boot</module>
         <module>lamboee-boot-bom-spring-cloud</module>
+        <module>lamboee-boot-bom-toolkit</module>
     </modules>
 
 </project>

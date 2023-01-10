@@ -7,9 +7,6 @@
     <artifactId>lamboee-boot</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
-    <name>lamboee-boot</name>
-    <description>lamboee-boot</description>
-
     <packaging>pom</packaging>
 
     <properties>
