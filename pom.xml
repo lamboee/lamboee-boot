@@ -20,6 +20,7 @@
 
     <modules>
         <module>lamboee-boot-boms</module>
+        <module>lamboee-boot-starters</module>
     </modules>
 
     <developers>
