@@ -7,6 +7,7 @@
         <groupId>cn.lamboee</groupId>
         <artifactId>lamboee-boot-boms</artifactId>
         <version>0.0.2-SNAPSHOT</version>
+        <relativePath>../pom.xml</relativePath>
     </parent>
 
     <artifactId>lamboee-boot-bom-springcloud</artifactId>
