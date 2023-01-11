@@ -16,7 +16,7 @@
         <dependencies>
             <dependency>
                 <groupId>cn.lamboee</groupId>
-                <artifactId>lamboee-boot-bom-spring-boot</artifactId>
+                <artifactId>lamboee-boot-bom-springboot</artifactId>
                 <version>0.0.2-SNAPSHOT</version>
                 <type>pom</type>
                 <scope>import</scope>
