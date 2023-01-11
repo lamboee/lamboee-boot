@@ -5,7 +5,7 @@
     <parent>
         <groupId>cn.lamboee</groupId>
         <artifactId>lamboee-boot</artifactId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>0.0.2-SNAPSHOT</version>
     </parent>
 
     <artifactId>lamboee-boot-boms</artifactId>
@@ -13,8 +13,8 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>lamboee-boot-bom-spring-boot</module>
-        <module>lamboee-boot-bom-spring-cloud</module>
+        <module>lamboee-boot-bom-springboot</module>
+        <module>lamboee-boot-bom-springcloud</module>
         <module>lamboee-boot-bom-toolkit</module>
     </modules>
 

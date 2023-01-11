@@ -6,10 +6,10 @@
     <parent>
         <groupId>cn.lamboee</groupId>
         <artifactId>lamboee-boot-boms</artifactId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>0.0.2-SNAPSHOT</version>
     </parent>
 
-    <artifactId>lamboee-boot-bom-spring-cloud</artifactId>
+    <artifactId>lamboee-boot-bom-springcloud</artifactId>
 
     <packaging>pom</packaging>
 

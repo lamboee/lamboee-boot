@@ -4,27 +4,24 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>cn.lamboee</groupId>
-        <artifactId>lamboee-boot-boms</artifactId>
-        <version>0.0.1-SNAPSHOT</version>
+        <artifactId>lamboee-boot-parents</artifactId>
+        <version>0.0.2-SNAPSHOT</version>
     </parent>
 
-    <artifactId>lamboee-boot-bom-spring-boot</artifactId>
+    <artifactId>lamboee-boot-parent</artifactId>
 
     <packaging>pom</packaging>
-
-    <properties>
-        <spring-boot.version>3.0.1</spring-boot.version>
-    </properties>
 
     <dependencyManagement>
         <dependencies>
             <dependency>
-                <groupId>org.springframework.boot</groupId>
-                <artifactId>spring-boot-dependencies</artifactId>
-                <version>${spring-boot.version}</version>
+                <groupId>cn.lamboee</groupId>
+                <artifactId>lamboee-boot-bom-spring-boot</artifactId>
+                <version>0.0.2-SNAPSHOT</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
         </dependencies>
     </dependencyManagement>
+
 </project>

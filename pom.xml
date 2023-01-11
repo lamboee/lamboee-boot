@@ -5,7 +5,7 @@
 
     <groupId>cn.lamboee</groupId>
     <artifactId>lamboee-boot</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
 
     <packaging>pom</packaging>
 
@@ -20,6 +20,7 @@
 
     <modules>
         <module>lamboee-boot-boms</module>
+        <module>lamboee-boot-parents</module>
         <module>lamboee-boot-starters</module>
     </modules>
 
